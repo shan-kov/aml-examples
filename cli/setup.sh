@@ -26,7 +26,7 @@ az extension add -n ml -y
 ## For backward compatibility - running on old subscription
 # <set_variables>
 GROUP="aml-rg"
-LOCATION="ukwest"
+LOCATION="West UK"
 WORKSPACE="aml-sk-ws001"
 # </set_variables>
 

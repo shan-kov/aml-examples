@@ -24,7 +24,7 @@ SCRIPT_DIR="$( cd "$( dirname "${SCRIPT_PATH}" )" && pwd )"
 #
  RESOURCE_GROUP_NAME="aml-rg"
  WORKSPACE_NAME="aml-sk-ws001"
- LOCATION="ukwest" 
+ LOCATION="West UK" 
  SUBSCRIPTION_ID="2e2a8971-45f0-44e9-a963-fcdfd6099fa8"
 
 ###############
