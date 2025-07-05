@@ -22,10 +22,10 @@ SCRIPT_DIR="$( cd "$( dirname "${SCRIPT_PATH}" )" && pwd )"
 ###################
 # REQUIRED ENVIRONMENT VARIABLES:
 #
-# RESOURCE_GROUP_NAME
-# WORKSPACE_NAME
-# LOCATION
-# SUBSCRIPTION_ID
+ RESOURCE_GROUP_NAME="aml-rg"
+ WORKSPACE_NAME="aml-sk-ws001"
+ LOCATION="ukwest" 
+ SUBSCRIPTION_ID=${{ secrets.AZURE_SUBSCRIPTION_ID }}
 
 ###############
 
