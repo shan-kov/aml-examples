@@ -22,10 +22,10 @@ SCRIPT_DIR="$( cd "$( dirname "${SCRIPT_PATH}" )" && pwd )"
 ###################
 # REQUIRED ENVIRONMENT VARIABLES:
 #
- RESOURCE_GROUP_NAME="aml-rg"
- WORKSPACE_NAME="aml-sk-ws001"
- LOCATION="West UK" 
- SUBSCRIPTION_ID="2e2a8971-45f0-44e9-a963-fcdfd6099fa8"
+# RESOURCE_GROUP_NAME
+# WORKSPACE_NAME
+# LOCATION
+# SUBSCRIPTION_ID
 
 ###############
 
